@@ -114,9 +114,16 @@ MonoBehaviour:
     volumeVariance: 0
     pitchVariable: 0
     loop: 0
-  - name: LandingFootsteps
-    clip: {fileID: 8300000, guid: 7e0183e6e15e33647bda4b1563c852bd, type: 3}
-    volume: 0.587
+  - name: NoMoney
+    clip: {fileID: 8300000, guid: b4e1958281f15b943bf8c2e35cc76390, type: 3}
+    volume: 0.539
+    pitch: 1
+    volumeVariance: 0.2
+    pitchVariable: 0.1
+    loop: 0
+  - name: Money
+    clip: {fileID: 8300000, guid: 57de4c36430098c44954351177ea6056, type: 3}
+    volume: 0.498
     pitch: 1
     volumeVariance: 0.2
     pitchVariable: 0.1
