@@ -23,6 +23,7 @@ public class Enemy : MonoBehaviour
 	public EnemyStats stats = new EnemyStats();
 	public Transform deathParticles;
 	public string deathSoundName = "Explosion";
+	public int moneyDrop = 15;
 	public float shakeAmount = 0.1f;
 	public float shakeLength = 0.1f;
 
